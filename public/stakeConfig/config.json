@@ -1,0 +1,11 @@
+{
+  "CONTRACT_ADDRESS": "0x230Bb7ce185CD0042973202f5F38B7072440e2C9",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0xD8F152B2bc85Fc3C218d2ee427395E3A50426ff8",
+  "NETWORK": {
+    "NAME": "Cronos Beta",
+    "SYMBOL": "cro",
+    "ID": 25
+  },
+  "TOKEN_NAME": "Crooks Gold Token",
+  "SYMBOL": "cGOLD"
+}

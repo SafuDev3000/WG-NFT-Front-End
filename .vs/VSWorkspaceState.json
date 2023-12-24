@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\config",
+    "\\public\\stakeConfig",
+    "\\src",
+    "\\src\\redux",
+    "\\src\\redux\\blockchain",
+    "\\src\\redux\\data",
+    "\\src\\redux\\stakeBlockchain",
+    "\\src\\redux\\stakeData"
+  ],
+  "SelectedNode": "\\src\\staking.js",
+  "PreviewInSolutionExplorer": false
+}
